@@ -1,0 +1,9 @@
+{
+  "name": "Zeit2",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ip": "^1.1.5",
+    "mongodb": "^3.6.11"
+  }
+}
